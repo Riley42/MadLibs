@@ -69,7 +69,7 @@ public class MadLibsGame {
         } while (true);
     }
 
-    // Helper functions
+    // Helper functionss
     private void printMenu(){
 
         System.out.println("******************************\n");
