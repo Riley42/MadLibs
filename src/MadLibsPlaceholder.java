@@ -28,6 +28,8 @@ public class MadLibsPlaceholder {
     public String toString() {
 
         return String.format("%s (%s)", word, type);
+
+        //Same just without the formating
         //return word + " (" + type + ")";
     }
 }

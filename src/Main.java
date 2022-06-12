@@ -1,5 +1,6 @@
 import java.io.File;
 
+// Class supplied to students. Shouldn't be modified.
 public class Main {
 
     public static void main(String[] args) {

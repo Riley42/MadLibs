@@ -17,7 +17,7 @@ public class MadLibsGame {
         return stories[index];
     }
 
-    // Generate the listing string, with index being 1 over i (so it starts at 1 not 0)
+    // Generate the listing string, with index being 1 over i (so it starts at 1 not 0.)
     public void listStories() {
 
         for (int i = 0; i < stories.length; i++)

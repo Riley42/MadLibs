@@ -2,6 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.ArrayList;
 
+// Class supplied to students. Shouldn't be modified.
 public class MadLibsStoryBuilder {
 
     /**

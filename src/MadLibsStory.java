@@ -25,7 +25,7 @@ public class MadLibsStory {
 
     public MadLibsPlaceholder getNextPlaceholder()
     {
-        // The current index is held in a variable, and is incremented every time
+        // The current index is held in a variable, and is incremented each time.s
         if (placeholderIndex >= placeholders.length) {
             placeholderIndex = 0;
             return null;
